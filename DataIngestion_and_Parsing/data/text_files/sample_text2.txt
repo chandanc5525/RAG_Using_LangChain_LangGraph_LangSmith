@@ -1,0 +1,5 @@
+This is the second sample text file, focusing on data extraction and metadata parsing pipelines.
+It simulates a secondary document structure containing technical workflow parameters.
+Once loaded, this file will be parsed into vector representations using dense embedding models.
+Managing multiple files helps verify that document loaders capture unique file paths properly.
+This structure forms the complete baseline for testing multi-document Retrieval-Augmented Generation.

@@ -1,0 +1,5 @@
+This is the first sample text file, designed specifically for testing text splitting functionality.
+It contains multiple lines of continuous paragraphs to evaluate document chunking performance.
+We will use different LangChain components like RecursiveCharacterTextSplitter to handle this content.
+The goal is to ensure that chunk limits are maintained without breaking key semantic sentences.
+By analyzing the outputs, we can optimize parameters like chunk size and chunk overlap effectively.
